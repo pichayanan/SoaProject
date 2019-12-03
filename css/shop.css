@@ -1,3 +1,8 @@
 body {
     padding-top: 56px;
   }
+.d-block{
+    width:1600px;
+    height:420px;
+    background-image: 100%;
+}
